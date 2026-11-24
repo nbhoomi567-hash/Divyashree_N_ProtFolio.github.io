@@ -1,24 +1,76 @@
-# Divyashree N — Portfolio
+# Divyashree N | Personal Portfolio
 
-Responsive single-page portfolio built with HTML, CSS and JavaScript (CSS and JS are included in `index.html` for easy beginner setup).
+Welcome to my personal portfolio repository!
 
-## Run on your computer
-1. Extract this ZIP.
-2. Open the extracted `Divyashree_Portfolio` folder in VS Code.
-3. Open `index.html`.
-4. Right-click and choose **Open with Live Server** (install the Live Server extension if needed). You can also open `index.html` directly in a browser.
+I am an MCA graduate and aspiring Software Developer with an interest in software development, application development, web technologies, and software quality.
 
-## Before publishing
-- Confirm education status/marks and internship dates are accurate.
-- Replace the three GitHub profile links in the project cards with the individual public repository links, if available.
-- Add your resume PDF in `assets/` and name it `Divyashree_Resume.pdf` (then add a download button if desired).
-- Review all public contact information. A public website can be viewed by anyone.
+This portfolio showcases my technical skills, internship experience, academic projects, and professional journey.
 
-## Publish publicly using GitHub Pages
-1. Create a **public** GitHub repository named `YOUR-USERNAME.github.io`.
-2. Upload `index.html` and the `assets` folder to the repository root.
-3. Open **Settings → Pages**.
-4. Under Build and deployment, choose **Deploy from a branch**, branch `main`, folder `/ (root)`, then Save.
-5. After deployment, visit `https://YOUR-USERNAME.github.io`.
+## About Me
 
-Do not publish passwords, private keys, confidential internship material, or personal information you do not want public.
+- MCA Graduate
+- Aspiring Software Developer
+- Interested in Application Development and Web Technologies
+- Familiar with software testing, debugging, and troubleshooting
+- Enthusiastic about continuous learning and solving technical problems
+
+## Technical Skills
+
+- **Programming Languages:** Java, Python, JavaScript, PHP
+- **Web Technologies:** HTML5, CSS3, Bootstrap
+- **Application Development:** Android Development, XML
+- **Database Technologies:** MySQL, Firebase Realtime Database
+- **Development Tools:** Git, GitHub, VS Code, Android Studio
+- **Operating Systems & Scripting:** Linux, Bash
+- **Core Competencies:** Software Testing, Debugging, Problem-Solving, Application Security Fundamentals
+
+## Internship Experience
+
+**Cyber Security & Ethical Hacking Intern**
+- Contributed to the ESG Reporting Engine through application testing, debugging, and technical documentation.
+- Reviewed application workflows for potential security vulnerabilities and reliability issues.
+- Worked with Linux, Bash, Git, and GitHub during technical assignments.
+
+**Frontend Developer Intern**
+- Developed responsive web interfaces using HTML, CSS, and JavaScript.
+- Supported UI implementation, testing, and debugging.
+- Applied responsive design and usability principles.
+
+## Featured Projects
+
+**ESG Reporting Engine**
+- Application testing, debugging, documentation, and security-focused workflow reviews.
+
+**Snap Deals – Android Application**
+- Marketplace application developed using Java, XML, Android Studio, and Firebase.
+
+**Student Career Guidance System**
+- Web-based application designed to support students in exploring career opportunities.
+
+## Portfolio Features
+
+- Professional introduction
+- Technical skills
+- Internship experience
+- Academic projects
+- Education
+- Contact information
+- Resume download
+
+## Technologies Used
+
+HTML5 | CSS3 | JavaScript
+
+## Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/divyashree-n-14b35138b/
+- **GitHub:** https://github.com/nbhoomi567-hash
+- **Email:** nbhoomi567@gmail.com
+
+---
+
+Thank you for visiting my portfolio!
+
+I am always interested in learning, growing, and exploring new opportunities in the technology industry.
+
+**Divyashree N**
